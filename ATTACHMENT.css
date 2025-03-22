@@ -1,0 +1,39 @@
+body {font-family: 'Times New Roman', Times, serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;}
+
+nav {background-color: red;}
+
+nav ul { list-style: none;
+        padding: 0%;}
+
+nav ul li a { color: rgb(78, 98, 0);
+             text-decoration: none;}
+ 
+             nav{
+                float: above;
+                line-height: 100px;
+            }
+            nav a{
+                text-decoration: none;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                letter-spacing: 4px;
+                font-size: 20px;
+                color: #0d0c0c;
+                padding: 36px 10px;
+                margin: 0% 1px;
+            }
+            nav a:hover{
+                background-color: #f30f0f;
+                color: #02010e;
+                font-weight: 500;
+            }
+
+section { padding: 20px;}
+
+footer { background-color: aqua;
+         color: black;
+        text-align: center;
+    padding: 10 px o;}
+
